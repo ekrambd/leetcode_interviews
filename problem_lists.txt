@@ -1,0 +1,48 @@
+Startup / Mid-level (weDevs, DataSoft, NanoSoft, 6amTech) DSA 30 LeetCode Problems (JavaScript) with LeetCode Numbers
+
+---
+
+# Array & String (10)
+
+1. Merge Intervals - LC 56
+2. Best Time to Buy and Sell Stock - LC 121
+3. Maximum Subarray - LC 53
+4. Move Zeroes - LC 283
+5. Product of Array Except Self - LC 238
+6. Longest Substring Without Repeating Characters - LC 3
+7. Valid Anagram - LC 242
+8. Group Anagrams - LC 49
+9. Contains Duplicate - LC 217
+10. Majority Element - LC 169
+
+# HashMap / HashSet (5)
+
+11. Two Sum (HashMap approach) - LC 1
+12. Top K Frequent Elements - LC 347
+13. First Unique Character in a String - LC 387
+14. Intersection of Two Arrays - LC 349
+15. Longest Consecutive Sequence - LC 128
+
+# Stack (5)
+
+16. Valid Parentheses - LC 20
+17. Min Stack - LC 155
+18. Daily Temperatures - LC 739
+19. Next Greater Element I - LC 496
+20. Evaluate Reverse Polish Notation - LC 150
+
+# Linked List (5)
+
+21. Reverse Linked List - LC 206
+22. Merge Two Sorted Lists - LC 21
+23. Linked List Cycle - LC 141
+24. Remove Nth Node From End of List - LC 19
+25. Middle of the Linked List - LC 876
+
+# Tree (5)
+
+26. Binary Tree Inorder Traversal - LC 94
+27. Maximum Depth of Binary Tree - LC 104
+28. Invert Binary Tree - LC 226
+29. Binary Tree Level Order Traversal - LC 102
+30. Diameter of Binary Tree - LC 543
