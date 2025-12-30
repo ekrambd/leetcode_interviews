@@ -4,8 +4,8 @@ Startup / Mid-level (weDevs, DataSoft, NanoSoft, 6amTech) DSA 30 LeetCode Proble
 
 # Array & String (10)
 
-1. Merge Intervals - LC 56
-2. Best Time to Buy and Sell Stock - LC 121
+1. Merge Intervals - LC 56 - Done
+2. Best Time to Buy and Sell Stock - LC 121 - Done
 3. Maximum Subarray - LC 53
 4. Move Zeroes - LC 283
 5. Product of Array Except Self - LC 238
@@ -17,7 +17,7 @@ Startup / Mid-level (weDevs, DataSoft, NanoSoft, 6amTech) DSA 30 LeetCode Proble
 
 # HashMap / HashSet (5)
 
-11. Two Sum (HashMap approach) - LC 1
+11. Two Sum (HashMap approach) - LC 1 - Done
 12. Top K Frequent Elements - LC 347
 13. First Unique Character in a String - LC 387
 14. Intersection of Two Arrays - LC 349
