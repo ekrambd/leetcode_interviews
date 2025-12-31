@@ -7,7 +7,7 @@ Startup / Mid-level (weDevs, DataSoft, NanoSoft, 6amTech) DSA 30 LeetCode Proble
 1. Merge Intervals - LC 56 - Done
 2. Best Time to Buy and Sell Stock - LC 121 - Done
 3. Maximum Subarray - LC 53
-4. Move Zeroes - LC 283
+4. Move Zeroes - LC 283 - Done
 5. Product of Array Except Self - LC 238
 6. Longest Substring Without Repeating Characters - LC 3
 7. Valid Anagram - LC 242
