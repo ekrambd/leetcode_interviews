@@ -13,13 +13,13 @@ Startup / Mid-level (weDevs, DataSoft, NanoSoft, 6amTech) DSA 30 LeetCode Proble
 7. Valid Anagram - LC 242
 8. Group Anagrams - LC 49
 9. Contains Duplicate - LC 217
-10. Majority Element - LC 169
+10. Majority Element - LC 169 - Done
 
 # HashMap / HashSet (5)
 
 11. Two Sum (HashMap approach) - LC 1 - Done
 12. Top K Frequent Elements - LC 347
-13. First Unique Character in a String - LC 387
+13. First Unique Character in a String - LC 387 - Done
 14. Intersection of Two Arrays - LC 349
 15. Longest Consecutive Sequence - LC 128
 
