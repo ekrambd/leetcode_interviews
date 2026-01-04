@@ -12,7 +12,7 @@ var firstUniqChar = function(s) {
             return this.map.has(key)?this.map.get(key):null;
         }
     }
-    let map = new Map();
+    let map = new HashMap();
     let arr = s.split("");
     for(let i = 0; i < arr.length; i++)
     {
