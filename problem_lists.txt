@@ -20,7 +20,7 @@ Startup / Mid-level (weDevs, DataSoft, NanoSoft, 6amTech) DSA 30 LeetCode Proble
 11. Two Sum (HashMap approach) - LC 1 - Done
 12. Top K Frequent Elements - LC 347
 13. First Unique Character in a String - LC 387 - Done
-14. Intersection of Two Arrays - LC 349
+14. Intersection of Two Arrays - LC 349 - Done
 15. Longest Consecutive Sequence - LC 128
 
 # Stack (5)
