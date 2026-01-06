@@ -10,9 +10,9 @@ Startup / Mid-level (weDevs, DataSoft, NanoSoft, 6amTech) DSA 30 LeetCode Proble
 4. Move Zeroes - LC 283 - Done
 5. Product of Array Except Self - LC 238
 6. Longest Substring Without Repeating Characters - LC 3
-7. Valid Anagram - LC 242
+7. Valid Anagram - LC 242 - Done
 8. Group Anagrams - LC 49
-9. Contains Duplicate - LC 217
+9. Contains Duplicate - LC 217 - Done
 10. Majority Element - LC 169 - Done
 
 # HashMap / HashSet (5)
