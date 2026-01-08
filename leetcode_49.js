@@ -4,9 +4,7 @@ var groupAnagrams = function(strs) {
     for(let i = 0; i < strs.length; i++){
         let str = strs[i];
         let key = str.split('').sort().join('');
-        if(!map.has(key)){
-            map.set(key,[]);
-        }
+        if(!map.has(key)) map.set(key,[]);
         map.get(key).push(str);
     }
     return Array.from(map.values());
