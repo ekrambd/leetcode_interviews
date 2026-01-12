@@ -1,20 +1,6 @@
 //169. Majority Element
 
 var majorityElement = function(nums) {
-    class HashMap{
-        constructor()
-        {
-            this.map = new Map();
-        }
-        set(key,value)
-        {
-            this.map.set(key,value);
-        }
-        get(key)
-        {
-            return this.map.has(key)?this.map.get(key):null;
-        }
-    }
     let map = new Map();
     let majorityElement = Math.floor(nums.length/2);
     for(let i = 0; i < nums.length; i++){
@@ -27,7 +13,7 @@ var majorityElement = function(nums) {
         if(map.get(nums[i]) > majorityElement){
             return nums[i];
         }
-    } 
+    }
 };
 
 console.log(majorityElement([3,2,3]));
